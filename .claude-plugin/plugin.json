@@ -1,0 +1,14 @@
+{
+  "name": "perfdelta",
+  "version": "1.0.0",
+  "description": "PageSpeed scans, Core Web Vitals, fixes, agent briefs and performance budgets for any public website via the hosted PerfDelta MCP server. Set PERFDELTA_API_KEY (free key at perfdelta.com/register).",
+  "author": {
+    "name": "PerfDelta",
+    "email": "info@perfdelta.com",
+    "url": "https://perfdelta.com"
+  },
+  "homepage": "https://perfdelta.com/api-docs",
+  "repository": "https://github.com/PerfDelta/perfdelta-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "pagespeed", "core-web-vitals", "web-performance", "lighthouse", "seo"]
+}
