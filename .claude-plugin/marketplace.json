@@ -1,0 +1,14 @@
+{
+  "name": "perfdelta",
+  "owner": {
+    "name": "PerfDelta",
+    "email": "info@perfdelta.com"
+  },
+  "plugins": [
+    {
+      "name": "perfdelta",
+      "source": "./",
+      "description": "PageSpeed scans, Core Web Vitals, fixes and agent briefs via the hosted PerfDelta MCP server."
+    }
+  ]
+}
