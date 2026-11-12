@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "perfdelta": {
+      "type": "http",
+      "url": "https://perfdelta.com/api/mcp.php",
+      "headers": {
+        "Authorization": "Bearer ${PERFDELTA_API_KEY}"
+      }
+    }
+  }
+}
