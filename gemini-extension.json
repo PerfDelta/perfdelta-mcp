@@ -1,0 +1,12 @@
+{
+  "name": "perfdelta",
+  "version": "1.0.0",
+  "mcpServers": {
+    "perfdelta": {
+      "httpUrl": "https://perfdelta.com/api/mcp.php",
+      "headers": {
+        "Authorization": "Bearer $PERFDELTA_API_KEY"
+      }
+    }
+  }
+}
